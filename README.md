@@ -2,6 +2,5 @@
 
 ## Olá! Bem-vindo ao meu livro de receitas.
 
--.Strognoff de frango
-
--.Bolo de cenoura
+1. Strognoff de frango
+2. Bolo de cenoura
